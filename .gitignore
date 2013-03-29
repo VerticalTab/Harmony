@@ -1,7 +1,6 @@
 /phpunit.xml
 /nbproject/
 /vendor/
-/app/config/parameters.yml
 /app/cache/*/*
 /app/logs/*.log
 /app/SymfonyRequirements.php
