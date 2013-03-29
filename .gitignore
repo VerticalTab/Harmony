@@ -1,0 +1,11 @@
+/phpunit.xml
+/nbproject/
+/vendor/
+/app/config/parameters.yml
+/app/cache/*/*
+/app/logs/*.log
+/app/SymfonyRequirements.php
+/app/check.php
+/app/bootstrap.php.cache
+/web/bundles/
+/bin/
