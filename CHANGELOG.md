@@ -5,3 +5,4 @@ CHANGELOG
 ---
 
  * Added travis CI
+ * Added default homepage

@@ -1,0 +1,7 @@
+parameters:
+#    harmony_homepage.example.class: Harmony\HomepageBundle\Example
+
+services:
+#    harmony_homepage.example:
+#        class: %harmony_homepage.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

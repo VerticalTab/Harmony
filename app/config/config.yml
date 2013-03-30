@@ -43,6 +43,8 @@ assetic:
       base_css:
         inputs:
           - '%kernel.root_dir%/Resources/public/css/bootstrap.min.css'
+          - '%kernel.root_dir%/Resources/public/css/harmony.css'
+          - '%kernel.root_dir%/Resources/public/css/bootstrap-responsive.min.css'
           - '%kernel.root_dir%/Resources/public/css/font-awesome.min.css'
 
 # Doctrine Configuration
