@@ -1,5 +1,5 @@
 {
-    "name": "verticaltab/harmony",
+    "name": "VerticalTab/Harmony",
     "description": "Web Framework based on Symfony",
     "autoload": {
         "psr-0": { "": "src/" }
