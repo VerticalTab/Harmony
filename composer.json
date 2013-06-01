@@ -1,6 +1,7 @@
 {
     "name": "VerticalTab/Harmony",
     "description": "Web Framework based on Symfony",
+    "license": "MIT",
     "autoload": {
         "psr-0": { "": "src/" }
     },
