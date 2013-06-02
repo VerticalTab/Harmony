@@ -4,5 +4,5 @@ php:
   - 5.3
   - 5.4
 
-before_script: composer install --dev
+before_script: composer install --dev --no-interaction
 script: bin/phpunit -c app
