@@ -82,6 +82,7 @@ Your deployment process should perform (at a minimum) these steps or equivalent:
     rm web/app_dev.php
     curl -s http://getcomposer.org/installer | php
     php composer.phar install
+    app/console assetic:dump
 
 
 [1]: http://github.com/symfony/symfony-standard
