@@ -1,7 +1,8 @@
 Harmony : Symfony Based Framework for web applications
 ======================================================
 
-release-1.0 [![Build Status](https://secure.travis-ci.org/VerticalTab/Harmony.png?branch=release-1.0)](http://travis-ci.org/VerticalTab/Harmony)
+master [![Build Status](https://secure.travis-ci.org/VerticalTab/Harmony.png?branch=master)](http://travis-ci.org/VerticalTab/Harmony)
+develop [![Build Status](https://secure.travis-ci.org/VerticalTab/Harmony.png?branch=develop)](http://travis-ci.org/VerticalTab/Harmony)
 
 Harmony is a Symfony Based Framework that includes several additional tools 
 which work together to aid in building web applications. In fact, Harmony is
